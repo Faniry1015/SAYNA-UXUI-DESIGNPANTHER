@@ -1,5 +1,5 @@
 # SAYNA-UXUI-DESIGNPANTHER
-🎯 Project for learning purpose (UX / UI) SAYNA ACADEMY
+🎯 Learn and practice UX/UI design by SAYNA
 
 🔗 Link : https://www.figma.com/file/RMqxHCO54BVhwlcbwyTIIv/Black-Panther?type=design&node-id=96%3A50&mode=design&t=bm9Xx7rPmLqgLy0d-1 <br>
 
