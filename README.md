@@ -1,5 +1,8 @@
 # SAYNA-UXUI-DESIGNPANTHER
-🎯 Learn and practice UX/UI design with SAYNA
+<ul>
+  <li>🎯 Learn and practice UX/UI design with SAYNA ;</li>
+  <li>🙅🏿‍♂️ To faithfully replicate a mockup and prototype of a website dedicated to the Marvel hero Black Panther using Figma as closely as possible.</li>
+</ul>
 
 <h2>Derivelables : </h2>
 <ul>
