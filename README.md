@@ -2,8 +2,10 @@
 🎯 Learn and practice UX/UI design by SAYNA
 
 <h2>Derivelables : </h2>
-- Pdf files ;
-- Links to the figma project.
+<ul>
+  <li>Pdf files ;</li>
+  <li>Links to the figma project.</li>
+</ul>
 
 <h2>Links to the project and prototype</h2>
 
