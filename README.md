@@ -1,5 +1,5 @@
 # SAYNA-UXUI-DESIGNPANTHER
-🎯 Learn and practice UX/UI design by SAYNA
+🎯 Learn and practice UX/UI design with SAYNA
 
 <h2>Derivelables : </h2>
 <ul>
